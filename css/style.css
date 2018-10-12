@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Charmonman');
+@import url('https://fonts.googleapis.com/css?family='Charmonman');
 
 body{
   background-color: rgb(0, 255, 255);
@@ -12,7 +12,10 @@ h1 {
 }
 
 p { 
-  color: rgb(0, 0, 0)
+  font-size: 30px;
+  color: rgb(0, 0, 0);
+  font-family:'Fredericka the Great'
+    
 }
 
 a {
