@@ -18,9 +18,9 @@ p {
 }
 
 a {
-  font-size: 17px;
+  font-size: 22px;
   color: rgb (65,105,225);
-  font-family: 'Rajdhani', sans-serif; 
+  font-family: 'Chakra Petch', sans-serif 
 }
 
 a:hover {
@@ -31,18 +31,4 @@ a:hover {
 div {
   background-color:rgb(102, 217, 255);
   font-family:'Charmonman';
-}
-
-.kotak1 {
-  background-color: rgb(174, 182, 183);
-  width: 400px;
-  height: 800px;
-}
-
-.kotak2 {
-  background-color: rgb(182, 187, 188);
-}
-
-.kotak3 {
-  background-color: rgb(180, 187, 188);
 }
