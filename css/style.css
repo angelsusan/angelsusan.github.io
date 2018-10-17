@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css?family=Charmonman|Indie+Flower');
-<link href="https://fonts.googleapis.com/css?family=Fredericka+the+Great" rel="stylesheet">
 
 body{
   background-color: rgb(230,230,250);
@@ -8,7 +7,8 @@ body{
 h1 {
   font-size: 50px;
   color: rgb(0, 0, 0);
-font-family: 'Fredericka the Great'
+   font-family:'Charmonman', cursive;
+
 }
 
 p { 
