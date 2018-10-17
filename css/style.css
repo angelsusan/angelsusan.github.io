@@ -18,13 +18,14 @@ p {
 }
 
 a {
-  color: rgb(0,0,128)
+  color: rgb (65,105,225)
   font-family:'Charmonman', cursive;  
 }
 
 a:hover {
-    color: rgb(65,105,225)
+    color: rgb(0,0,128)
 }
+      
 
 div {
   background-color: rgb(0,191,255)
