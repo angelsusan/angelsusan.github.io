@@ -18,30 +18,30 @@ p {
 }
 
 a {
-  color: rgb (65,105,225)
+  color: rgb (65,105,225);
   font-family: 'Rajdhani', sans-serif; 
 }
 
 a:hover {
-    color: rgb(0,0,128)
+    color: rgb(0,0,128);
 }
       
 
 div {
-  background-color: rgb(0,191,255)
-  font-family:'Charmonman'
+  background-color: rgb(0,191,255);
+  font-family:'Charmonman';
 }
 
 .kotak1 {
-  background-color: rgb(174, 182, 183)
+  background-color: rgb(174, 182, 183);
   width: 400px;
   height: 800px;
 }
 
 .kotak2 {
-  background-color: rgb(182, 187, 188)
+  background-color: rgb(182, 187, 188);
 }
 
 .kotak3 {
-  background-color: rgb(180, 187, 188)
+  background-color: rgb(180, 187, 188);
 }
