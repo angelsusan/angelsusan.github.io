@@ -14,11 +14,12 @@ h1 {
   font-size: 50px;
   color: rgb(0, 0, 0);
  font-family: 'Shadows Into Light', cursive;
+}
+
 p { 
   font-size: 14px;
   color: rgb(0, 0, 0);
-  font-family: 'Roboto Mono', monospace;
-}
+  font-family: 'Concert One', cursive;
 
 a {
   font-size: 22px;
