@@ -4,6 +4,7 @@
 @import url('https://fonts.googleapis.com/css?family=Chakra+Petch|Inconsolata|Rajdhani|Roboto+Mono');
 @import url('https://fonts.googleapis.com/css?family=Chakra+Petch|Inconsolata|Monoton|Rajdhani|Roboto+Mono');
 @import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light');
+@import url('https://fonts.googleapis.com/css?family=Concert+One|Shadows+Into+Light');
 
 body{
   background-color: rgb(102, 204, 255);
@@ -22,7 +23,7 @@ p {
 a {
   font-size: 22px;
   color: rgb (65,105,225);
-  font-family: 'Chakra Petch', sans-serif; 
+  font-family: 'Concert One', cursive;
 }
 
 a:hover {
