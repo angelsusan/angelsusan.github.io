@@ -32,9 +32,17 @@ a {
 a:hover {
     color: rgb(230,230,250);
 }
-      
 
-div {
-  background-color:rgb(102, 217, 255);
-  font-family:'Charmonman';
+.parent {}
+
+
+.anak1 {
+  float: left;
+  width: 20%;
+}
+
+
+.anak2 {
+  float: right;
+  width: 70%;
 }
