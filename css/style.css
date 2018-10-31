@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css?family=Chakra+Petch|Inconsolata|Monoton|Rajdhani|Roboto+Mono');
 @import url('https://fonts.googleapis.com/css?family=Concert+One|Shadows+Into+Light');
 @import url('https://fonts.googleapis.com/css?family=Mali');
-
+@import url('https://fonts.googleapis.com/css?family=Cabin+Sketch');
 body{
   background-color: rgb(102, 204, 255);
   
@@ -13,6 +13,11 @@ h1 {
   font-size: 50px;
   color: rgb(0, 0, 0);
  font-family: 'Shadows Into Light', cursive;
+}
+
+h2 {
+  font-size: 20px;
+  font-family: 'Cabin Sketch', cursive;
 }
 
 p { 
