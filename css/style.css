@@ -38,17 +38,3 @@ a {
 a:hover {
     color: rgb(230,230,250);
 }
-
-.parent {}
-
-
-.anak1 {
-  float: left;
-  width: 20%;
-}
-
-
-.anak2 {
-  float: right;
-  width: 80%;
-}
