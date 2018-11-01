@@ -6,7 +6,7 @@
 @import url('https://fonts.googleapis.com/css?family=Cabin+Sketch');
 body{
   background-color: rgb(102, 204, 255);
-  background-images: url(http://images6.fanpop.com/image/photos/41300000/BTS-TEAR-yulliyo8812-41349111-1600-900.jpg);  
+  background-images: url("http://images6.fanpop.com/image/photos/41300000/BTS-TEAR-yulliyo8812-41349111-1600-900.jpg");  
 }
 
 h1 {
