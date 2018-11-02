@@ -41,5 +41,13 @@ a:hover {
 
 .menu {
   text-align: right;
+  width: 70px;
 }
 
+.parent {
+}
+
+.logo {
+  float: left;
+  width: 30px;
+}
