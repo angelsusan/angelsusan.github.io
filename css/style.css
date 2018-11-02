@@ -1,10 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Charmonman');
-@import url('https://fonts.googleapis.com/css?family=Chakra+Petch|Inconsolata|Rajdhani|Roboto+Mono');
-@import url('https://fonts.googleapis.com/css?family=Chakra+Petch|Inconsolata|Monoton|Rajdhani|Roboto+Mono');
-@import url('https://fonts.googleapis.com/css?family=Concert+One|Shadows+Into+Light');
-@import url('https://fonts.googleapis.com/css?family=Mali');
-@import url('https://fonts.googleapis.com/css?family=Cabin+Sketch');
-
+@import url('https://fonts.googleapis.com/css?family=Charmonman|Inconsolata|Rajdhani|Roboto+mono|Concert+one|Shadow+Into+Light|Mali|Cabin+Sketch');
 body{
   background-images: url("http://images6.fanpop.com/image/photos/41300000/BTS-TEAR-yulliyo8812-41349111-1600-900.jpg");
   background-repeat:no-repeat, repeat;
@@ -41,7 +35,7 @@ a:hover {
 
 .menu {
   text-align: right;
-  width: 70px;
+  width: 100%;
 }
 
 .parent {
@@ -51,5 +45,5 @@ a:hover {
 
 .logo {
   float: left;
-  width: 30px;
+  width: 100%;
 }
