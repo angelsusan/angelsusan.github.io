@@ -46,6 +46,7 @@ a:hover {
 
 .parent {
   height: 100px;
+  color: transparent;
 }
 
 .logo {
