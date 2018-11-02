@@ -39,3 +39,8 @@ a {
 a:hover {
     color: rgb(230,230,250);
 }
+
+.menu {
+  text-align: right;
+}
+
