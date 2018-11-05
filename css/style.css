@@ -1,9 +1,62 @@
 @import url('https://fonts.googleapis.com/css?family=Charmonman|Inconsolata|Rajdhani|Roboto+mono|Concert+one|Shadow+Into+Light|Mali|Cabin+Sketch');
-body{
-  background-images: url("http://images6.fanpop.com/image/photos/41300000/BTS-TEAR-yulliyo8812-41349111-1600-900.jpg");
-  background-repeat:no-repeat, repeat;
-  background-color: rgb(102, 204, 255);
+
+* {
+    margin: 0;
+    padding: 0;
 }
+
+body {
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.5);
+    background-image: url(https://pm1.narvii.com/6806/0d3425f98599ac2f42a3d22094d027b626503625v2_hq.jpg)
+}
+
+
+
+/* Header */
+.header {
+    padding: 20px;
+    height: 130px;
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.header img {
+    width: 50px;
+    float: left;
+    text-align: center;
+    padding: 20px;
+}
+
+.menu {
+    float: right;
+    margin: 50px 20px;
+    background-color: black;
+}
+
+.menu a {
+    color: white;
+    margin: 20px;
+}
+
+/* Main Profile */
+
+.main-profile {
+    padding: 20px;  
+    
+}
+
+.biodata-1 {
+    background-color: blueviolet;
+    padding: 20px;
+}
+
+.kimnanjoon, .kimseokjin, .parkjimin, .jeongjeonguk {
+    text-align: center;
+    width: 20%;
+    display: inline-block;
+    margin: 0 1%;
+}
+
 
 h1 {
   font-size: 50px;
@@ -31,28 +84,10 @@ a {
 }
 
 a:hover {
-    color: rgb(230,230,250);
+    color: blue;
 }
 
-.menu {
-  text-align: right;
-  width: 100%;
-}
 
 .parent {
   height: 100px;
 }
-
-.header {
-  background-color: black;
-  overflow: hidden;
-  padding: 20px;
-  color: white;
-}
-
-/*.logo {
-  float: left;
-  width: 100%;
-  padding: right;
-  margin: right;
-} */
