@@ -43,10 +43,11 @@ a:hover {
   height: 100px;
 }
 
-.logo {
+.header {
   background-color: black;
   overflow: hidden;
   padding: 20px;
+  color: white;
 }
 
 /*.logo {
