@@ -44,8 +44,14 @@ a:hover {
 }
 
 .logo {
+  background-color: black;
+  overflow: hidden;
+  padding: 20px;
+}
+
+/*.logo {
   float: left;
   width: 100%;
   padding: right;
   margin: right;
-}
+} */
