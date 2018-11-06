@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Charmonman|Inconsolata|Rajdhani|Roboto+mono|Concert+one|Shadow+Into+Light|Mali|Cabin+Sketch');
+@import url('https://fonts.googleapis.com/css?family=Charmonman|Inconsolata|Rajdhani|Roboto+mono|Concert+one|Shadow+Into+Light|Mali|Cabin+Sketch|Montserrat');
 
 * {
     margin: 0;
@@ -81,9 +81,9 @@ h2 {
 }
 
 p { 
-  font-size: 14px;
+  font-size: 20px;
   color: rgb(0, 0, 0);
-  font-family: 'Mali', cursive;
+ font-family: 'Montserrat', sans-serif;
 }
 
 a {
