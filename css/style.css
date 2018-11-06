@@ -57,6 +57,17 @@ body {
     margin: 0 1%;
 }
 
+.bodata-2 {
+    background-color: blueviolet;
+    padding: 20px;
+}
+
+.minyoongi, .junghoseok, .kimtaehyung {
+    text-align: center;
+    width: 20%;
+    display: inline-block;
+    margin 0 1%;
+}
 
 h1 {
   font-size: 50px;
