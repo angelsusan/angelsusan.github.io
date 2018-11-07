@@ -49,7 +49,7 @@ body {
     padding: 24px;
 }
 
-.kimnanjoon, .kimseokjin {
+.kimnanjoon, .kimseokjin, .parkjimin, .jeonjeongguk {
     text-align: center;
     width: 24%;
     display: inline-block;
@@ -61,20 +61,12 @@ body {
     padding: 24px;
 }
 
-.parkjimin, .jeongjeonguk ;
-    text-align: center;
-    width:24px;
-    display: inline-block;
-    margin: 0 1%;
-
 .biodata-2 { 
     background-color:rgba(245, 245, 245, 0.267);
     padding: 24px;
     display: block;
     margin: auto;
 }
-
-
 
 .minyoongi, .junghoseok, .kimtaehyung {
     text-align: center;
